@@ -2,7 +2,9 @@
 
 ## Introduction / 简介 
 
-2024编译原理课程设计（2024.5.9~2024.6.20
+This is a project for the 2024 Compiler Theory course design in Jilin University. We developed a compiler capable of generating intermediate and target code, supporting basic syntax including arithmetic operations, nested branches, and loops.
+
+这是我们小组在2024编译原理课程设计上的项目。我们实现了一个编译器，能够进行中间代码和目标代码的生成，支持基础的语法例如四则运算，嵌套的分支和循环等等。
 
 ## Team Member / 组员
 
