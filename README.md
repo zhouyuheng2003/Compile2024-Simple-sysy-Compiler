@@ -18,9 +18,9 @@
 
 - Installe Flex and Bison (for Windows OS, utilized installation packages from the setup folder) and configure environment variables / 安装flex和bison（windows操作系统可以用setup文件夹中的安装包，并配置环境变量）
 
-- Created a new 'build' directory / 新建build文件夹
+- Create a new 'build' directory / 新建build文件夹
 
-- Executed the following commands: / 运行如下指令：
+- Execute the following commands: / 运行如下指令：
 
   ```
   flex -l sysy.l
