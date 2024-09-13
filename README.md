@@ -8,7 +8,7 @@ This is a project for the 2024 Compiler Theory course design in Jilin University
 
 ## Team Member / 组员
 
-- [Zysun2002](https://github.com/Zysun2002)
+- [Zysun2002](https://github.com/Zysun2002) (Team Leader)
 
 - [zhouyuheng2003](https://github.com/zhouyuheng2003)
 
